@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **ashishkataria209@gmail.com**
 
+- <img src="https://i.pinimg.com/originals/f5/80/9f/f5809ffea411bd8d2ed8e6f98abec3e3.gif" height=20 width=20> I’m currently learning DSA.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/king_atomic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="king_atomic" height="30" width="40" /></a>
